@@ -2,7 +2,7 @@
 
 **Materia:** Inteligencia Artificial  
 **Universidad:** Corporación Universitaria Iberoamericana  
-**Estudiante:** Sebastian Sanchez Puerto  
+**Estudiante:** Juliana Naranjo Camacho  
 **Repositorio:** https://github.com/Juli-2206/transmilenio-rutas-ia-No-Supervisado  
 
 ---
@@ -224,4 +224,4 @@ Palma Méndez, J. T. (2008). *Inteligencia artificial: métodos, técnicas y apl
 ## Licencia
 
 Proyecto académico — Corporación Universitaria Iberoamericana, 2026.  
-Uso exclusivo para fines educativos.
+
